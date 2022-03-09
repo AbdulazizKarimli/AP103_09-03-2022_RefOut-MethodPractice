@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\bin\Debug\netcoreapp3.1\RefOutPractice.exe
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\bin\Debug\netcoreapp3.1\RefOutPractice.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\bin\Debug\netcoreapp3.1\RefOutPractice.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\bin\Debug\netcoreapp3.1\RefOutPractice.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\bin\Debug\netcoreapp3.1\RefOutPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\bin\Debug\netcoreapp3.1\RefOutPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\Tasks\RefOutPractice\RefOutPractice\obj\Debug\netcoreapp3.1\RefOutPractice.genruntimeconfig.cache
